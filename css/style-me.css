@@ -1,0 +1,47 @@
+body{
+    padding-top: 70px;
+}
+  .navbar-inverse input[type="text"] {
+      background: #313131;
+      border: none;
+      color: #999999;
+  }
+
+  .navbar-inverse .navbar-form{
+      position: relative;
+  }
+  .navbar-inverse button[type="submit"] {
+      position: absolute;
+      top: 25%;
+      right: 20px;
+      background: none;
+      border: none;
+  }
+
+  
+  .navbar-inverse .glyphicon {
+      color: #999999;
+  }
+  .profile {
+      margin-right: 25px;
+  }
+  .background{
+      background: #f8f8f8;
+      width: 970px;
+      padding: 40px;
+      border-radius: 4px;
+      
+  }
+  .m1{
+      padding: 4px;
+      border: 1px solid #999999;
+      background-color:#fff;
+      border-radius: 4px;
+  }
+  .m2{
+      padding-top: 12px;
+  }
+  .m3{
+      width: 68%;
+      margin-left: 16%;
+    }
